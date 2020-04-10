@@ -1,4 +1,5 @@
 import React from 'react';
+import '../style/sections/_no.scss';
 
 const NoMatch = () =>{
     return(
