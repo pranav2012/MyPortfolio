@@ -38,7 +38,7 @@ export const projectsData = [
     title: 'My Portfolio Website',
     info: 'This website is made with react framework, bootstrap and gatsby.js',
     info2: 'It contains all information about me all my projects and work at one place',
-    url: 'https://pranav2012.github.io/MyPortfolio/',
+    url: 'https://pranavportfolio.netlify.com/',
     repo: 'https://github.com/pranav2012/MyPortfolio/', // if no repo, the button will not show up
   },
   {

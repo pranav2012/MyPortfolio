@@ -1,12 +1,10 @@
 {
   "name": "myportfolio",
-  "homepage": ".",
   "private": true,
   "description": "My portfolio website",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public ",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
@@ -26,7 +24,6 @@
     "gatsby-plugin-sharp": "^2.4.0",
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-sharp": "^2.3.13",
-    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",

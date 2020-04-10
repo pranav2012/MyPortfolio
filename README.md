@@ -1,7 +1,7 @@
 ## A clean, beautiful and responsive Website 
 
 <h2 align="center">
-  <img src="https://github.com/pranav2012/MyPortfolio/src/images/project 0.png" alt="MyPortfolio" width="600px" />
+  <img src="https://github.com/pranav2012/MyPortfolio/blob/master/src/images/project%200.png" alt="MyPortfolio" width="600px" />
   <br>
 </h2>
 
@@ -16,7 +16,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a live example, **[click here](https://pranav2012.github.io/MyPortfolio/)**
+To view a live example, **[click here](https://pranavportfolio.netlify.com/)**
 
 ---
 
@@ -50,10 +50,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
+$ git clone https://github.com/pranav2012/MyPortfolio
 
 # Go into the repository
-$ cd gatsby-simplefolio
+$ cd MyPortfolio
 
 # Remove current origin repository
 $ git remote remove origin
@@ -89,7 +89,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/pranav2012/MyPortfolio/src/images/project 0.png" alt="MyPortfolio" width="100%">
+  <img src="https://github.com/pranav2012/MyPortfolio/blob/master/src/images/project%200.png" alt="MyPortfolio" width="100%">
 </h2>
 
 ---
@@ -245,8 +245,7 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35f917ef-929a-4c8b-b571-c36b7407023e/deploy-status)](https://app.netlify.com/sites/pranavportfolio/deploys)
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

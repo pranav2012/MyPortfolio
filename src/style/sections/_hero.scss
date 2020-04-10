@@ -14,14 +14,15 @@
   bottom: 0;
   right: 0;
   z-index: -1;
-
+  background: url("https://i.ibb.co/8mvKj0R/bd.png");
+  background-position: top left;
+  background-repeat: no-repeat;
   // If you want to set a background image on the hero section, uncomment these with yout custom image
 
-  /* background: url("/src/assets/[your-image].png");
-  background-position: center;
-  background-size: cover; */
+  
 
   @include respond(phone) {
+    background-position: right;
     padding: 0rem $default-font-size;
   }
 
