@@ -248,5 +248,5 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35f917ef-929a-4c8b-b571-c36b7407023e/deploy-status)](https://app.netlify.com/sites/pranavportfolio/deploys)
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
