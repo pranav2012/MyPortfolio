@@ -34,6 +34,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'project 4.png',
+    title: 'Face Recogination',
+    info: 'it detects faces and take input as url or image file store user in database',
+    info2: 'landing page is a signup page made with reactjs with validations',
+    url: 'https://facerecogination.herokuapp.com/',
+    repo: 'https://github.com/pranav2012/FaceRecogination_Frontend', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'project 0.png',
     title: 'My Portfolio Website',
     info: 'This website is made with react framework, bootstrap and gatsby.js',
@@ -68,7 +77,6 @@ export const projectsData = [
     url: 'https://pranav2012.github.io/Gradient-Background/',
     repo: 'https://github.com/pranav2012/Gradient-Background/', // if no repo, the button will not show up
   },
-  
 ];
 
 // CONTACT DATA
