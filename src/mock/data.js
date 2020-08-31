@@ -34,6 +34,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'project 5.jpg',
+    title: 'Website For Real Worth International',
+    info: 'This website is made with React framework, Material-UI and gatsby.js',
+    info2: 'It showcases about the compnay, their Products & conatct Details',
+    url: 'https://realworthinternational.web.app/',
+    repo: 'https://github.com/pranav2012/RealWorthInternational', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'project 4.png',
     title: 'Face Recogination',
     info: 'it detects faces and take input as url or image file store user in database',
