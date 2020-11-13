@@ -44,21 +44,6 @@ yarn@v1.21.1 or higher
 
 ---
 
-## How To Use 🔧
-
-From your command line, first clone Simplefolio:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/pranav2012/MyPortfolio
-
-# Go into the repository
-$ cd MyPortfolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-
 Then you can install the dependencies either using NPM or Yarn:
 
 Using NPM:
@@ -105,7 +90,7 @@ Go to `/src/mock/data.js` and fill your information, they are 5 objects:
 ```javascript
 export const heroData = {
   title: '', // Hello, my name is
-  name: '', // John
+  name: '', // Pranav 
   subtitle: '', // I'm the Unknown Developer.
   cta: '', // Know more
 };
